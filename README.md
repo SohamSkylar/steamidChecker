@@ -11,5 +11,5 @@ npm i steamcommunity
 
 <i>NOTE: correct form of request body is</i>
 <br>{<br>
-  "steamid" : "<steam-url>"<br>
+  "steamid" : "steam-url"<br>
 }
