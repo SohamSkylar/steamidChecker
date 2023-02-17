@@ -1,2 +1,2 @@
 # steamidChecker
-simple api / javascript program for checking steam id
+simple api / javascript program for checking steam <b>id</b>
