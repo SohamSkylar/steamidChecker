@@ -10,6 +10,6 @@ npm i steamcommunity
 <b>This code can handle all types of error an user can make while entering a steam url.</b>
 
 <i>NOTE: correct form of request body is</i>
-{
-  "steamid" : "<steam-url>"
+{<br>
+  "steamid" : "<steam-url>"<br>
 }
