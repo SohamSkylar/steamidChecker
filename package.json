@@ -1,0 +1,15 @@
+{
+  "name": "steamidchecker",
+  "version": "1.0.0",
+  "description": "source code for steam id checker",
+  "main": "steamidChecker.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Soham Sarkar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "steamcommunity": "^3.44.3"
+  }
+}
